@@ -1,5 +1,5 @@
 void main() {
-  MaxSum max = MaxSum(70, [2, 4, 3]);
+  MaxSum max = MaxSum(12, [2, 4, 3]);
   max.defineSum();
 }
 
